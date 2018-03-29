@@ -1,7 +1,10 @@
+<<<<<<< HEAD
 
 new line 
 helloooooooo
 
+=======
+>>>>>>> parent of 4d7d69b... both were updated aritrarily
 
 The mummy will appreciate the lack of humidity 
 
