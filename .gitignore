@@ -1,4 +1,3 @@
-#ignore all .dat files: 
-*.dat
-#ignore all results
-results/
+
+#ignore all plots
+results/plots
